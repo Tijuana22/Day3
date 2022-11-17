@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(27, 244, 252);
+    border: 10px groove, #8b4b6a;
+    height: 100vh;
+    text-align: center;
+    background-image: url(http)
+}
+
+h1 {
+    color: #8b4b6a;
+    font-size: 60px;
+    border-top: 8px soild black;
+    border-bottom: 8px soild black;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+
+
+}
+
+img {
+    height: 500px;
+    width: 400px;
+}
+
+P{
+    font-size: 20px;
+    font-weight: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+
+
+    h2 {
+        font-size: 40px;
+    }
